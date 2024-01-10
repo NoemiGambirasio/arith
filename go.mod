@@ -1,0 +1,3 @@
+module github.com/NoemiGambirasio/arith
+
+go 1.21.3
